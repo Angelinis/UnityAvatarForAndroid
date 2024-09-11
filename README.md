@@ -9,7 +9,7 @@ This APK is a prototype showcasing an interactive user interface powered by a ri
 Explore the prototype with the images and video below:
 
 ![Demo Image](Images/Captura1.JPG)
-[Watch the Demo Video](Images/Video1.mp4)
+[Watch the Demo Video](Images/Video1.gif)
 
 > **Note:** This is an early prototype. Future versions will aim to enhance functionality and introduce additional features.
 
