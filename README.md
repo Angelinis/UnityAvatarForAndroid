@@ -1,16 +1,18 @@
 # UnityAvatarForAndroid
 
-This APK is a prototype for an interactive User Interace using a rigged Avatar.
+Welcome to **UnityAvatarForAndroid**!
 
-This APK was created through the Unity Game Engine, and the integration of a Simulator package.
+This APK is a prototype showcasing an interactive user interface powered by a rigged avatar. It was developed using the Unity Game Engine, incorporating a Simulator package for adapting it to different Android Devices. The avatar itself was created using the Ready Player Me package, offering a customizable and interactive experience.
 
-On the other hand, the avatar was created through the integration of the Ready Player Me package.
+## Demo
+
+Explore the prototype with the images and video below:
+
+![Demo Image](Images/Captura1.JPG)
+[Watch the Demo Video](Images/Video1.mp4)
+
+> **Note:** This is an early prototype. Future versions will aim to enhance functionality and introduce additional features.
 
 ---
 
-# Demo
-
-![](/Images/Captura1.JPG)
-![](/Images/Video1.mp4)
-
-> This is a prototype, but can be further improved by adding other features.
+Feel free to provide any feedback or suggestions for improvements!
